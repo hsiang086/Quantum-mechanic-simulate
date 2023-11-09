@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-This repository contains the code for the quantum computing course at the University of Amsterdam. The code is writt
+This repository contains the code for the quantum computing.The code is written in Rust.
 
 ## 2. Installation
 
